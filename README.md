@@ -1,12 +1,13 @@
 <html>
 <head>
+  <title>Портфолио</title>
 </head>
 <body style = ' background-color: rgb(244, 244, 219);'>
 <header style = 'background-color: #e7f9e7; height: 150px; padding: 10px 0;'>
-    <center style=' font-size: 75px; margin-top: 20px '>Портфолио</center>
+    <center style=' font-size: 75px; margin-top: 50px '>Портфолио</center>
 </header>
 <h4 style='color: #000;'><center><p>Т.А.Ж: Аскербек Әлімхан Маратұлы</p></center></h4>
-<center><img src="C:\Users\Admin\OneDrive\Изображения\Alim2.jpg" alt='#' style=' border-radius: 10px;'>
+<center><img src="https://i.postimg.cc/zDyD7Ywb/Alim2.jpg" alt='#' style=' border-radius: 10px;'>
 <h2 style='color: #000;'><center><p>АВТОБИОГРАФИЯ</p></center></h2>
 <div style="background-color: #e7f9e7; padding: 10px; border-radius: 5px; list-style-type: none; padding-left: 0;">Менің атым - Әлімхан, мен 16 жастамын, 2008 жылдың 5 тамызында Астанада дүниеге келгенмін. Менің өмірім әлі жас болса да, көп нәрсені үйренуге, ізденуге және тәжірибе жинауға тырысамын. Бала кезімнен бастап әртүрлі нәрселерге қызығушылығым болды: футболға, настольді тенниске, математикаға және информатикаға. Әсіресе компьютерлер мен бағдарламалауға қызығамын.
 
@@ -25,6 +26,6 @@
     </ul>
 <h2><center>ТАҢДАҒАН МАМАНДЫҒЫМ</center></h2>
 <p style="background-color: #e7f9e7; padding: 10px; border-radius: 5px; list-style-type: none; padding-left: 0;">Менің таңдаған мамандығым – бағдарламашы немесе IT саласындағы мамандықтар. Бұл сала менің қызығушылықтарым мен қабілеттеріме сәйкес келеді. Болашақта технологиялар мен инновациялар әлеміне үлес қосып, бағдарламалау және жүйелік әкімшілендіру сияқты салаларда жұмыс істегім келеді.</p>
-<img src="C:\Users\Admin\OneDrive\Изображения\Aliko.jpg">
+<img src="https://i.postimg.cc/PrZXGbRd/Aliko.jpg">
 </body>
 </html>
