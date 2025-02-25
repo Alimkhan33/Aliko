@@ -4,7 +4,7 @@
 </head>
 <body style = ' background-color: rgb(244, 244, 219);'>
 <header style = 'background-color: #e7f9e7; height: 150px; padding: 10px 0;'>
-    <center style=' font-size: 75px; margin-top: 50px '>Портфолио</center>
+    <center style=' font-size: 75px; margin-top: 35px '>Портфолио</center>
 </header>
 <h4 style='color: #000;'><center><p>Т.А.Ж: Аскербек Әлімхан Маратұлы</p></center></h4>
 <center><img src="https://i.postimg.cc/zDyD7Ywb/Alim2.jpg" alt='#' style=' border-radius: 10px;'>
