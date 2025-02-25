@@ -1,6 +1,5 @@
 <html>
 <head>
-  <title>Портфолио</title>
 </head>
 <body style = ' background-color: rgb(244, 244, 219);'>
 <header style = 'background-color: #e7f9e7; height: 150px; padding: 10px 0;'>
